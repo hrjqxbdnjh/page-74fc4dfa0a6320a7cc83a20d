@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qf02w7.cn/sitemap.xml

@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4b4c68826949726af8191f48",
+  "owner": "hrjqxbdnjh",
+  "repo": "page-74fc4dfa0a6320a7cc83a20d",
+  "title": "好滋味(Haotas)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "74fc4dfa0a6320a7cc83a20d",
+      "a": "好滋味(Haotas)",
+      "b": "机场官网线路发布页",
+      "entity": "好滋味(Haotas)",
+      "brand": "好滋味(Haotas)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "cbb745393ea5a142a367eff6ec0de571076031a3cd00a655b4ba94a70ab7ebee",
+      "content": {
+        "primary_entity": "好滋味(Haotas)",
+        "keyword1": "好滋味(Haotas)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，好滋味(Haotas)提供基础版、旗舰版与团队版三档订阅，月付分别为¥15、¥35、¥85，年付分别为¥150、¥350、¥850。基础版每月100GB流量、支持3台设备；旗舰版每月300GB、支持5台设备并优化游戏专线；团队版每月1000GB、支持20台设备。按设备安装对应客户端后导入订阅即可使用，具体兼容性以客户端说明为准。",
+          "AI_HERO_SUBTITLE": "多档订阅适配不同设备规模",
+          "AI_HERO_INTRO": "好滋味(Haotas)为跨境访问场景提供多档订阅服务，覆盖从个人到团队的使用规模。基础版、旗舰版与团队版在流量、设备数与线路类型上逐级提升，用户可按实际需求选择月付或年付，获得对应的节点与流媒体访问体验。",
+          "AI_VISUAL_TITLE": "好滋味 多设备订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同流量规模",
+          "AI_HIGHLIGHT_2": "设备数从3台到20台逐级增加",
+          "AI_HIGHLIGHT_3": "年付方案降低长期使用成本",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "按使用规模和预算挑选套餐，关注流量、设备数与线路类型。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版100GB、旗舰版300GB、团队版1000GB，对应轻量到重度使用。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "3台、5台、20台的在线设备上限，覆盖个人多终端到小型团队。",
+          "AI_FEATURE_TITLE_3": "按周期结算",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付价格为¥150、¥350、¥850，适合长期订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备可安装对应客户端并导入订阅，具体兼容性以客户端说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，按流量与设备数区分。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据月流量需求与在线设备数量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本与客户端安装条件，准备导入订阅所需的信息。",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_STEP_TEXT_3": "在所选客户端中按说明导入订阅，完成节点选择与连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "好滋味(Haotas)的套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按月流量和设备数选择：基础版适合1至2人轻量使用，旗舰版适合多终端与游戏需求，团队版适合多人共享与高带宽场景，可先月付试用再转年付。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出上限时需断开部分设备后再连接，具体以客户端显示为准。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月结算，适合短期或临时使用；年付一次性支付，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，长期使用折算每月成本更低。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_4": "在设备上安装对应客户端后，按客户端文档说明添加订阅链接或配置文件，选择节点并连接。不同客户端的导入方式存在差异，以所用客户端说明为准。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后连接会受限，可按需升级到更高档套餐或在下一计费周期恢复。具体恢复规则与升级方式以订阅服务方当前说明为准。",
+          "AI_CLOSING_TITLE": "选好套餐，按设备完成配置",
+          "AI_CLOSING_TEXT": "根据流量与设备数挑选合适的套餐，安装客户端并导入订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qf02w7.cn",
+    "host": "qf02w7.cn"
+  },
+  "file_hashes": {
+    "index.html": "2073db643eec28a16e1f38d8aab809c1fdfdc1e4cf63414eea94f83e30bf380c",
+    "sitemap.xml": "66aebe67f9f1c57ccf1663e83208de50fd6651f2df2979cb2451de7afd17332d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fc0bbb2b692d07ab3dc1549f9923e20c97d52229937e764f062b3c277c534f0d",
+    "robots.txt": "001a109236a16fd774be942dea96ea37ee37702bf18c303b07b5c28975cfb82d",
+    "c9284cdd270c5e191f119609570eefc0.txt": "a82262e8416587664bf6ff7d1cf8f9b967fa315416cc10db9d5dc47d7f212954"
+  },
+  "revision": "880e943eb9f4cd3cfcc89e5d138f5c5d57c36d076877e4f51767dd88065f212b"
+}
